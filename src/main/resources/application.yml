@@ -13,3 +13,9 @@ spring:
       format-sql: true
   database: postgresql
   database-platform: org.hibernate.dialect.PostgreSQLDialect
+
+
+  # API Docs url
+  springdoc:
+  api-docs:
+  path : /api-docs
